@@ -28,3 +28,19 @@
     border: 1px solid red;
     overflow: auto;
 }
+
+.float {
+    float: left;
+    width: 150px;
+    height: auto;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+#middle { clear: left;}
